@@ -1,0 +1,70 @@
+# Copyright (C) 2010 Simple SEO Pack
+# This file is distributed under the same license as the Simple SEO Pack package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple SEO Pack 1.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-seo-pack\n"
+"POT-Creation-Date: 2011-08-11 16:50:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-05-22 13:33+0200\n"
+"Last-Translator: Michael Yunat <Michael.Yunat@gmail.com>\n"
+"Language-Team: http://getvoip.com/\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 1.6.5\n"
+
+#: simple-seo-pack.php:32
+msgid "Simple SEO Meta Tags"
+msgstr "Простий SEO мета-теги"
+
+#: simple-seo-pack.php:38 simple-seo-pack.php:94
+msgid "Keywords"
+msgstr "Ключові слова"
+
+#: simple-seo-pack.php:39
+msgid "Insert a list of desired keywords"
+msgstr "Вставте список бажаних ключових слів"
+
+#: simple-seo-pack.php:44 simple-seo-pack.php:102
+msgid "Description"
+msgstr "Опис"
+
+#: simple-seo-pack.php:45
+msgid "Insert a short description for this page or post"
+msgstr "Вставте короткий опис для цієї сторінки або посту"
+
+#: simple-seo-pack.php:50
+msgid "Use global settings (not recomended)"
+msgstr "Використовуйте глобальні параметри (не рекомендується)"
+
+#: simple-seo-pack.php:73
+msgid "Simple SEO"
+msgstr "Простий SEO"
+
+#: simple-seo-pack.php:84
+msgid "Simple SEO Options"
+msgstr "Прості параметри SEO"
+
+#: simple-seo-pack.php:86
+msgid ""
+"From here you can set the default values for the <code>keywords</code> and "
+"<code>description</code> meta tags. These values will be used for all the "
+"posts and pages which don't have their custom ones."
+msgstr ""
+"Звідси ви можете встановити значення за замовчуванням для <code>keywords</"
+"code> і  <code>description</code> мета-теги. Ці значення будуть "
+"використовуватися для всіх  повідомлень і сторінок, які не мають своїх "
+"власних. "
+
+#: simple-seo-pack.php:95
+msgid "Insert 3-12 kewords or key phrases separating them with commas."
+msgstr "Вставте 3-12 keywords або ключові фрази, розділивши їх комами."
+
+#: simple-seo-pack.php:103
+msgid "Insert a description containing more or less 5-24 words."
+msgstr "Вставте опис, що містить більш-менш 5-24 слів."
+
+#: simple-seo-pack.php:117
+msgid "Save Changes"
+msgstr "Зберегти зміни"
